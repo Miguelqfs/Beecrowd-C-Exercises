@@ -1,2 +1,2 @@
 # Beecrowd-C-Exercises
-Solutions for some Beecrowd problems.
+Solutions to some Beecrowd problems using C language.
